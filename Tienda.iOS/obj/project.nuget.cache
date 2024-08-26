@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yjEbSQr5H0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda.iOS\\Tienda.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Migui\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Migui\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Migui\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

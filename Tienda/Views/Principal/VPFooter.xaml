@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tienda.Views.Principal.VPFooter">
+    <Grid HeightRequest="80"
+          BackgroundColor="#e2e2e2">
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center">
+            <Button CornerRadius="60" BackgroundColor="Transparent">
+                <Button.ImageSource>
+                    <FontImageSource Glyph="&#xf015;" FontFamily="{StaticResource FontAwesomeSolid}" Color="Black"/>
+                </Button.ImageSource>
+            </Button>
+            <Button CornerRadius="60" BackgroundColor="Transparent">
+                <Button.ImageSource>
+                    <FontImageSource Glyph="&#xf3c5;" FontFamily="{StaticResource FontAwesomeSolid}" Color="Black"/>
+                </Button.ImageSource>
+            </Button>
+            <Button CornerRadius="60" BackgroundColor="Transparent">
+                <Button.ImageSource>
+                    <FontImageSource Glyph="&#xf07a;" FontFamily="{StaticResource FontAwesomeSolid}" Color="Black"/>
+                </Button.ImageSource>
+            </Button>
+            <Button CornerRadius="60" BackgroundColor="Transparent">
+                <Button.ImageSource>
+                    <FontImageSource Glyph="&#xf013;" FontFamily="{StaticResource FontAwesomeSolid}" Color="Black"/>
+                </Button.ImageSource>
+            </Button>
+        </StackLayout>
+    </Grid>
+</ContentView>

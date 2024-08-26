@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\principal\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\principal\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\principal\\vpbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\principal\\vpbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\detalle\\vdbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\detalle\\vdbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\detalle\\vdheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\detalle\\vdheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\detalle\\vdproducto.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\detalle\\vdproducto.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\detalle\\vdfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\detalle\\vdfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\principal\\vpheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\principal\\vpheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\principal\\vpfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\principal\\vpfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\datos\\dproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\datos\\dproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\modelo\\mproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\modelo\\mproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\vistamodelo\\vmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\vistamodelo\\vmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\vistamodelo\\vmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\vistamodelo\\vmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\principal\\vpprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\principal\\vpprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\views\\detalle\\vdproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\detalle\\vdproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|c:\\users\\migui\\desktop\\trabajo final\\tienda\\tienda\\vistamodelo\\vmpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0243E3-59EA-45A6-8DB3-FAE251C3E7AE}|Tienda\\Tienda.csproj|solutionrelative:tienda\\vistamodelo\\vmpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VDHeader.xaml",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDHeader.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Detalle\\VDHeader.xaml",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDHeader.xaml",
+              "RelativeToolTip": "Tienda\\Views\\Detalle\\VDHeader.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T20:12:22.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VPHeader.xaml",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPHeader.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Principal\\VPHeader.xaml",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPHeader.xaml",
+              "RelativeToolTip": "Tienda\\Views\\Principal\\VPHeader.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T02:32:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VPBody.xaml",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPBody.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Principal\\VPBody.xaml",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPBody.xaml",
+              "RelativeToolTip": "Tienda\\Views\\Principal\\VPBody.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T21:19:59.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VPPrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPPrincipal.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Principal\\VPPrincipal.xaml",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPPrincipal.xaml",
+              "RelativeToolTip": "Tienda\\Views\\Principal\\VPPrincipal.xaml",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T00:46:28.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VPFooter.xaml",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPFooter.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Principal\\VPFooter.xaml",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPFooter.xaml",
+              "RelativeToolTip": "Tienda\\Views\\Principal\\VPFooter.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T23:21:27.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VDBody.xaml",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDBody.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Detalle\\VDBody.xaml",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDBody.xaml",
+              "RelativeToolTip": "Tienda\\Views\\Detalle\\VDBody.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T20:34:11.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VDFooter.xaml",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDFooter.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Detalle\\VDFooter.xaml",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDFooter.xaml",
+              "RelativeToolTip": "Tienda\\Views\\Detalle\\VDFooter.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T20:21:03.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VDProducto.xaml",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDProducto.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Detalle\\VDProducto.xaml",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDProducto.xaml",
+              "RelativeToolTip": "Tienda\\Views\\Detalle\\VDProducto.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T20:02:00.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Modelo\\MProductos.cs",
+              "RelativeDocumentMoniker": "Tienda\\Modelo\\MProductos.cs",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Modelo\\MProductos.cs",
+              "RelativeToolTip": "Tienda\\Modelo\\MProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:29:10.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Datos\\DProductos.cs",
+              "RelativeDocumentMoniker": "Tienda\\Datos\\DProductos.cs",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Datos\\DProductos.cs",
+              "RelativeToolTip": "Tienda\\Datos\\DProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:35:36.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\App.xaml",
+              "RelativeDocumentMoniker": "Tienda\\App.xaml",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\App.xaml",
+              "RelativeToolTip": "Tienda\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T21:29:13.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VDProducto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDProducto.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Detalle\\VDProducto.xaml.cs",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Detalle\\VDProducto.xaml.cs",
+              "RelativeToolTip": "Tienda\\Views\\Detalle\\VDProducto.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:59:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VMDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\VistaModelo\\VMDetalle.cs",
+              "RelativeDocumentMoniker": "Tienda\\VistaModelo\\VMDetalle.cs",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\VistaModelo\\VMDetalle.cs",
+              "RelativeToolTip": "Tienda\\VistaModelo\\VMDetalle.cs",
+              "ViewState": "AgIAAAMAAABQZmZmZmYwwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:56:12.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VMPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\VistaModelo\\VMPrincipal.cs",
+              "RelativeDocumentMoniker": "Tienda\\VistaModelo\\VMPrincipal.cs",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\VistaModelo\\VMPrincipal.cs",
+              "RelativeToolTip": "Tienda\\VistaModelo\\VMPrincipal.cs",
+              "ViewState": "AgIAAA0AAABAMzMzMzMtwDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:03:14.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\App.xaml.cs",
+              "RelativeToolTip": "Tienda\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:29:17.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VPPrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Principal\\VPPrincipal.xaml.cs",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\Views\\Principal\\VPPrincipal.xaml.cs",
+              "RelativeToolTip": "Tienda\\Views\\Principal\\VPPrincipal.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:31:03.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VMpatron.cs",
+              "DocumentMoniker": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\VistaModelo\\VMpatron.cs",
+              "RelativeDocumentMoniker": "Tienda\\VistaModelo\\VMpatron.cs",
+              "ToolTip": "C:\\Users\\Migui\\Desktop\\trabajo final\\Tienda\\Tienda\\VistaModelo\\VMpatron.cs",
+              "RelativeToolTip": "Tienda\\VistaModelo\\VMpatron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:56:32.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

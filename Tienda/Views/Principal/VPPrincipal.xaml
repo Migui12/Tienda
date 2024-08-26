@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tienda.Views.Principal.VPPrincipal"
+             xmlns:vistas="clr-namespace:Tienda.Views.Principal"
+             NavigationPage.HasNavigationBar="False">
+    <Grid BackgroundColor="#F7F7F7">
+        <CollectionView ItemsSource="{Binding ListaProductos}"
+                        x:Name="listaproductos"
+                        Margin="20">
+            <CollectionView.Header>
+                <vistas:VPHeader/>
+            </CollectionView.Header>
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Span="2" Orientation="Vertical"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <vistas:VPBody>
+                        <vistas:VPBody.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding Path=BindingContext.Seleccionarproducto, Source={x:Reference listaproductos}}"
+                          CommandParameter="{Binding .}"/>
+                        </vistas:VPBody.GestureRecognizers>
+                    </vistas:VPBody>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <vistas:VPFooter VerticalOptions="End"/>
+    </Grid>
+</ContentPage>

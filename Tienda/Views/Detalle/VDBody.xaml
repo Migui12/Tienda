@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tienda.Views.Detalle.VDBody">
+    <StackLayout TranslationY="0">
+        <Grid>
+            <Image Source="{Binding ParametroRecibe.icono}"
+                   HeightRequest="150"/>
+        </Grid>
+        <StackLayout TranslationY="-5">
+            <Label Text="{Binding ParametroRecibe.descripcion}"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   FontSize="Title"
+                   TextColor="#22223D"/>
+            <Label Text="{Binding ParametroRecibe.precio}"
+                   HorizontalOptions="Center"
+                   FontSize="Title"/>
+            <StackLayout HorizontalOptions="Center">
+                <Label Text="{Binding ParametroRecibe.capacidad}"/>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+</ContentView>
